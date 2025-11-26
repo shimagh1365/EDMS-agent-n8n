@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "n8n-workflow-project-475214",
+  "private_key_id": "4fb347724a22b14a141ec24bde570d9abed35e1e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9VTzf1JUQ27IW\nBtqN9IUmDU1B7NxQuhGxslhc+2XggOjzfZvJEnF+qlofBZzgpMh4WMnsD/y/NLJ2\nqo4mY8c2QAzCA5EGIwXb4VKuN9cF56ESnrWLV2Cu1IEovxvVMe5zShiGUwnMlIeO\nKR/XY3uSs2Q3Tjn0p/re3Kv7w+jPWM9W7vd769eGRtu1vzyiwW1IFPKumFm3R8QZ\nD3iEwXu1il8L/a4ABm5xwoEwHBvzaVCQCt/P1AzuZ8tuW29+mMYteT3U3MNcVlun\nSv3R0IDk2vYG7ReyqopkqONailJx6pKMuOzeKUzfq2PIhGBVG2KeHq8celcTAZXd\n6Uci4GlFAgMBAAECggEAAOF82GwXY2cPNbT2rP1emRZe+YfpInCRuWdwNfrttXl6\nxjMjL+OszmUE8190qW6GBWRE6eUzgVMOd3MKxye5LaSz0Ygq5U12jIE2mYHevJt8\nWPpl+xOfGR2ZtlhYinjrXWY9/znmc1ICfqxnuYbytFWkiVecdBzbL/6n65KELmKE\nID+Z47Bni8+IhqQlAMY/B3NLV2bBXzEGao2Je88QlDVQe65VRdtw5lVimeDFnTbO\nRxS3fvnrErYjURZZz5z71EYo8aw/8UP/hKSGJMvFcCB9pdhZPZusO9e6TM3VNlrZ\nTEpPhirb7cnxl5o90jbLHki5Di0oNqw8czc83JOKYQKBgQDkFB+YIww0McEGeZlc\noyQMQkLdCWMvvSzn1DYHdakrOYG1NK1wK9aWsvKolEUNSPobEFKJ44wZUbexBgjX\nXZsWIe6OjoZ9w0JhiDf9tMFy8MDdaIVrx2pswYwOL+cOV6CM8BbZOval7NY1Zu4A\nwRqsmbY7dw/DKs3r0DHElGF5YQKBgQDUgtgOY2H42AmEhBJbqaCMx5VIwh6TIxLr\nVX0KmavzjugETNVoAzIJbGeiNrgFqwfY0kmHrYwl90bLzcEI0qosokAvM3eIw+Qj\nogPwsHAY+slaCgI8wsbNT9oaiWXdngU6Koa1fU9wONttYhJAdu4rbVrB73rB/tBS\nvtecpBtGZQKBgHw85fTmanhn/cA8LqkCiNlQosFqoqfXgYWK2B96HTtZaOk/F5a5\nmnueYIYpte+FqA9j9cH8vEzycYAxTFGcQKVuuFbZFjOdUCR2oiFF+/ZTZIt2qu7J\nwpQZXeRAfbkXTHJZOej8sGwztX+DYPPyPEh2tohv05s5TtA8KU/uj6YhAoGBAIYe\nId9Kx502MyOH+tIQxvuyRjwKDyPLQfh2FplnDMeFDFcSaqjfQ2gBG5KbuB4Tp7sm\nVDOlysp3Oh4Lt+Uqly3eJGXltG4DO2tlp9jycXzCYetKX8kbID6ZQ8v1pO1t+lyQ\nVD4cXNM1fv6Uo3I93OhZdqroye+/MpjWSttYEsKlAoGACPv9fMRGr0+4niEMcsL+\nAU3fgLQ/qjT1o6KdPxvJbEDOQXhpyNXYbSxV367ui8xZ1ICIpw0vh7kyGuCHUOqY\nffqeyC2XPBj7UjP5wz5SgK9DGaK/d4mNZHJoltuT6XbETtIR/nBsgv7EEPFMvsiI\nuUanOBHLQWE1bdOc75GnLhk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "edms-slack-bot-service@n8n-workflow-project-475214.iam.gserviceaccount.com",
+  "client_id": "102059539550661772297",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/edms-slack-bot-service%40n8n-workflow-project-475214.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
